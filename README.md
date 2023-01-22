@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2020/12/wallpaper_header_4Kultra_wide_21_9.png )](https://rishavchanda.io)
+![MasterHead](https://github.blog/wp-content/uploads/2020/12/wallpaper_header_4Kultra_wide_21_9.png )
 
 <h1 align="center">Hi 👋, I'm Bohdan Danilevych</h1>
 <h3 align="center">Web Developer</h3>

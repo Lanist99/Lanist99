@@ -1,19 +1,19 @@
 ![MasterHead](https://github.blog/wp-content/uploads/2020/12/wallpaper_header_4Kultra_wide_21_9.png )
 
-<h1 align="center">Hi 👋, I'm Bohdan Danilevych</h1>
+<h1 align="center">Hi 🎆, I'm Bohdan Danilevych</h1>
 <h3 align="center">Web Developer</h3>
 
 <img width="100%" height = "200px" src="https://i.pinimg.com/originals/3a/51/4e/3a514e37f7559a2864205fbb7591bab4.gif" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanist99" alt="lanist99" /></a> </p>
 
-- 🔭 I’m currently working on **Weather API**
+- 💻💻💻 I’m currently working on **Weather API**
 
-- 🌱 I’m currently learning **React Native**
+- 🔎🔎🔎 I’m currently learning **React Native**
 
-- 📫 How to reach me **danilevic99@gmail.com**
+- 🧭🧭🧭 How to reach me **danilevic99@gmail.com**
 
-- ⚡ Fun fact **bla bla bla**
+- 🌌🌌🌌 Fun fact **1 day 2 week 1 month 1 year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

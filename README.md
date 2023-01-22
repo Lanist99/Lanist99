@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bohdan Danilevych</h1>
 <h3 align="center">Web Developer</h3>
 
-<img width="286px" height = "350px"  align= "right" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif" >
+<img width="300px" height = "450px" align = "right" src="https://i.pinimg.com/originals/3a/51/4e/3a514e37f7559a2864205fbb7591bab4.gif" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanist99" alt="lanist99" /></a> </p>
 
